@@ -15644,8 +15644,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ASUS\\Desktop\\MvcMovie\\Views\\Helloworld\\Welcome.cshtml",
+      "TargetPath": "Views\\Helloworld\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ASUS\\Desktop\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ASUS\\Desktop\\MvcMovie\\Views\\Helloworld\\Index.cshtml",
+      "TargetPath": "Views\\Helloworld\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
