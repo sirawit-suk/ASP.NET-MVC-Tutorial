@@ -51,6 +51,7 @@ namespace MvcMovie
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+                    // The trailing ? (in id?) indicates the id parameter is optional.
             });
         }
     }
